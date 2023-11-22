@@ -1,0 +1,16 @@
+{
+  "name": "ada-1090-typescript",
+  "version": "1.0.0",
+  "description": "Projeto Individual Lucas Rocha",
+  "scripts": {
+    "start": "rmdir /s /q dist && tsc && node dist/index.js",
+    "view": "node ./dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.4",
+    "typescript": "5.2.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
