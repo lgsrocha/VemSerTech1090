@@ -1,3 +1,3 @@
-import { Aula03 } from "./aula03-04";
+import { Aula05 } from "./aula05-c/index";
 
-Aula03()
+Aula05()
